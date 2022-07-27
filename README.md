@@ -1,7 +1,7 @@
 ### INFO:
-#### A full stack web application with user registration (signup/login/logout/ feature.<br>
+#### A full stack web application with user registration (signup/login/logout) feature.<br>
 #### It is fully responsive.<br>
-#### All the data is stroed locally on the database.<br>
+#### All the data is stored locally on the database.<br>
 <br><hr>
 ## Technologies used : 
 ### Frontend - HTML, CSSS, JS, BootStrap<br>
